@@ -1,0 +1,104 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: black;
+  min-height: 7vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 0px 10px
+}
+
+.body {
+  background-color: black;
+  min-height: 86vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 0px 10px
+}
+
+.categoryButton {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  background-color: Green;
+  border-color: white;
+  border-style: solid;
+  border-width: 2px;
+  height: 10vh;
+  width: 90vw;
+  margin: 1vh;
+}
+
+.categoryButtonCategory {
+  width: 30%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8px + 2vmin);
+}
+
+.categoryButtonQuestionSentence {
+  width: 60%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(4px + 3vmin);
+}
+
+.categoryButtonQuestionQuantity {
+  width: 20%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.footer {
+  background-color: black;
+  min-height: 7vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 0px 10px
+}
+
+.question {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.sentence {
+  font-size: calc(12px + 2vmin);
+  margin: 10px
+}
+
+.quantity {
+  font-size: calc(12px + 2vmin);
+}
+
+.detail-modal-header {
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detail-modal-body {
+  display: flex;
+  flex-direction: column;
+}
