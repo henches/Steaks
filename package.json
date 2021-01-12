@@ -2,7 +2,7 @@
   "name": "Steaks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://henches.github.io/Steaks",
+  "homepage": "https://henches.github.io/Steaks",
   "browserslist": {
     "production": [
       ">0.2%",
