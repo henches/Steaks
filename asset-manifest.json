@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Steaks/static/css/main.8e03ea9c.chunk.css",
-    "main.js": "/Steaks/static/js/main.7b402bef.chunk.js",
-    "main.js.map": "/Steaks/static/js/main.7b402bef.chunk.js.map",
-    "runtime-main.js": "/Steaks/static/js/runtime-main.6aacb35a.js",
-    "runtime-main.js.map": "/Steaks/static/js/runtime-main.6aacb35a.js.map",
-    "static/js/2.35b9f067.chunk.js": "/Steaks/static/js/2.35b9f067.chunk.js",
-    "static/js/2.35b9f067.chunk.js.map": "/Steaks/static/js/2.35b9f067.chunk.js.map",
-    "static/js/3.74c59131.chunk.js": "/Steaks/static/js/3.74c59131.chunk.js",
-    "static/js/3.74c59131.chunk.js.map": "/Steaks/static/js/3.74c59131.chunk.js.map",
+    "main.js": "/Steaks/static/js/main.fc1f8e34.chunk.js",
+    "main.js.map": "/Steaks/static/js/main.fc1f8e34.chunk.js.map",
+    "runtime-main.js": "/Steaks/static/js/runtime-main.168ef7fa.js",
+    "runtime-main.js.map": "/Steaks/static/js/runtime-main.168ef7fa.js.map",
+    "static/js/2.8393d976.chunk.js": "/Steaks/static/js/2.8393d976.chunk.js",
+    "static/js/2.8393d976.chunk.js.map": "/Steaks/static/js/2.8393d976.chunk.js.map",
+    "static/js/3.766c8e4e.chunk.js": "/Steaks/static/js/3.766c8e4e.chunk.js",
+    "static/js/3.766c8e4e.chunk.js.map": "/Steaks/static/js/3.766c8e4e.chunk.js.map",
     "index.html": "/Steaks/index.html",
     "static/css/main.8e03ea9c.chunk.css.map": "/Steaks/static/css/main.8e03ea9c.chunk.css.map",
-    "static/js/2.35b9f067.chunk.js.LICENSE.txt": "/Steaks/static/js/2.35b9f067.chunk.js.LICENSE.txt"
+    "static/js/2.8393d976.chunk.js.LICENSE.txt": "/Steaks/static/js/2.8393d976.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6aacb35a.js",
-    "static/js/2.35b9f067.chunk.js",
+    "static/js/runtime-main.168ef7fa.js",
+    "static/js/2.8393d976.chunk.js",
     "static/css/main.8e03ea9c.chunk.css",
-    "static/js/main.7b402bef.chunk.js"
+    "static/js/main.fc1f8e34.chunk.js"
   ]
 }
